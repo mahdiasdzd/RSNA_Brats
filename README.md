@@ -1,4 +1,4 @@
-# Brats2021
+# Brats2021 and EluNet
 Brats-2021 Dataset
 # ELUnet-and-his-Encoder
 The official code for ["Brats2021"](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1).
