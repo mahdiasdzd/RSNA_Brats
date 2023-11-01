@@ -18,7 +18,7 @@ first download models and save them in same directory with IPYNB file as jupyter
 Kaggle Drive Link:().
 
 ### Training and Testing
-1) Download the face mask detection dataset from [here](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1).
+1) Download the face Brats-2021 dataset from [here](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1).
 2) 2) Run the following code to install the Requirements.
 
     `pip install -r requirements.txt`
