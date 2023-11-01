@@ -33,5 +33,5 @@ Unet++ with ELU activision as Decoder and DenseNet 121 as  Encoder
 
 ## Results
 Performance comparision on covid-segmentation dataset.
-![](https://github.com/mahdiasdzd/ELUnet---and-his-Encoder/blob/main/outputNas.xlsx)
-![](https://github.com/mahdiasdzd/ELUnet---and-his-Encoder/blob/main/Model-Results-NAS.png)
+![](https://github.com/mahdiasdzd/Brats2021/blob/main/Model-Results.png)
+
