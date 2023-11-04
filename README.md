@@ -32,6 +32,6 @@ Unet++ with ELU activision as Decoder and DenseNet 121 as  Encoder
 6) Test trained model with this dataset in in IPYNB too.
 
 ## Results
-Performance comparision on covid-segmentation dataset.
+Performance comparision on Brats-segmentation dataset.
 ![](https://github.com/mahdiasdzd/Brats2021/blob/main/Model-Results.png)
 
