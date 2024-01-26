@@ -70,7 +70,6 @@ Unet++ with ELU activision as Decoder and DenseNet 121 as  Encoder
 ## Results
 Performance comparision on Brats-segmentation dataset.
 
-![](https://github.com/mahdiasdzd/mri/blob/main/Test_01.png)
 #2021 results
 ![](https://github.com/mahdiasdzd/mri/blob/main/Model-Results-2021.png)
 #2020 results
