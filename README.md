@@ -9,9 +9,9 @@ Brats-2018 Dataset
 # pspnet-and-his-Encoders
 # ELUnet-and-his-Encoders
 #
-The official code for ["Brats2021"](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1).
-The official code for ["Brats2020"](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data).
-The official code for ["Brats2019"](https://www.kaggle.com/datasets/aryashah2k/brain-tumor-segmentation-brats-2019).
+The official code for ["Brats2021"](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1). and
+The official code for ["Brats2020"](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data). and
+The official code for ["Brats2019"](https://www.kaggle.com/datasets/aryashah2k/brain-tumor-segmentation-brats-2019). and
 The official code for ["Brats2018"](https://www.kaggle.com/datasets/sanglequang/brats2018).
 Unet with ELU activision as Decoder and Strong cnn as  Encoder
 Unet++ with ELU activision as Decoder and Strong cnn as  Encoder
