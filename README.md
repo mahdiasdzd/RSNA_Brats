@@ -14,7 +14,7 @@ pspnet-and-his-Encoders
 
 ELUnet-and-his-Encoders
 #
-The official code for ["Brats2021"](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1)zand
+The official code for ["Brats2021"](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1)and
 
 The official code for ["Brats2020"](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data) and
 
